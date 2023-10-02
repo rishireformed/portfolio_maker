@@ -20,8 +20,8 @@ Please check the [contributing guide](CONTRIBUTING.md) to become a contributor.
 
 These are the steps to follow:
 1. First of all, fork this repository. If you want to work on your local system then you may clone the forked repo, but contribution can be done without cloning 😉.
-2. Go to ["Your_Portfolio"](https://github.com/DecodersCommunity/portfolio-builder/tree/main/Your%20Portfolio) folder and add your image in the Image folder with your GitHub Username. For example, if your username is coder-gits, then rename your image as coder-gits.png
-3. In the ["Your Portfolio"](https://github.com/DecodersCommunity/portfolio-builder/tree/main/Your%20Portfolio) folder, create a file named YourGitHubUserName.html and copy and paste the contents of [this](https://github.com/DecodersCommunity/portfolio-builder/blob/main/Template/index.html) file into it.
+2. Go to ["Your_Portfolio"](https://github.com/DecodersCommunity/Portfolio_maker/tree/main/Your_Portfolio) folder and add your image in the Image folder with your GitHub Username. For example, if your username is coder-gits, then rename your image as coder-gits.png
+3. In the ["Your Portfolio"](https://github.com/DecodersCommunity/Portfolio_maker/tree/main/Your_Portfolio) folder, create a file named YourGitHubUserName.html and copy and paste the contents of [this](https://github.com/DecodersCommunity/Portfolio_maker/blob/main/TEMPLATE/INDEX.html) file into it.
 4. Now, look out for the comments in the file and make appropriate changes according to you.
 5. Commit the changes and open a new pull request. Make sure to add Issue number #7 in the Description of the Pull Request you are making. 
    
@@ -32,7 +32,7 @@ These are the steps to follow:
 You can see your portfolios without even deploying your webpage through this link:
 1. Copy the URL of your portfolio HTML file from Github.
 2. Add "htmlpreview.github.io/?" in the prefix of the URL.
-Example: [https://htmlpreview.github.io/?https://github.com/DecodersCommunity/portfolio-builder/blob/main/Template/index.html](https://htmlpreview.github.io/?https://github.com/DecodersCommunity/portfolio-builder/blob/main/Template/index.html)
+Example: [https://htmlpreview.github.io/?https://github.com/DecodersCommunity/Portfolio_maker/blob/main/TEMPLATE/INDEX.html](https://htmlpreview.github.io/?https://github.com/DecodersCommunity/portfolio-builder/blob/main/Template/index.html)
 
 ## Reporting Bugs and Issues
 
