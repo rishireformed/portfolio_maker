@@ -1,6 +1,6 @@
 # Contributing
 
-[portfolio_maker](https://github.com/DecodersCommunity/Portfolio_maker) is [MIT](https://github.com/DecodersCommunity/calculator/blob/main/LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
+[portfolio_maker](https://github.com/DecodersCommunity/portfolio_maker) is [MIT](https://github.com/DecodersCommunity/calculator/blob/main/LICENSE) licensed and accepts contributions via GitHub pull requests. This document outlines some of the conventions on development workflow, commit message formatting, contact points, and other resources to make it easier to get your contribution accepted.
 
 ## Getting Started
 
