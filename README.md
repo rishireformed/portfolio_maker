@@ -41,7 +41,7 @@ If you have found a bug and you're confident it's a new bug and have confirmed t
 ## Contributors
 
 <a href="https://github.com/DecodersCommunity/Portfolio_maker/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DecodersCommunity/portfolio-builder" />
+  <img src="https://contrib.rocks/image?repo=DecodersCommunity/Portfolio_maker_" />
 </a>
 
 ## License
