@@ -194,12 +194,12 @@ form {
         <div id="header" class="section">
 <!--           YOUR IMAGE -->
             <img alt="logo" class="img-circle" src="yash.jpeg" placeholder =" Your pic" > 
-            <p>Vasu Aggarwal</p>
+            <p>Vasu-Aggarwal</p>
         </div>
         <div class="section">
             <h1><span>About Me</span></h1>
 <!--           ADD ABOUT YOURSELF, make it centre align -->
-            <p> <strong>Passionate IT Undergraduate | Eager to Master AI, ML, and DSA | Driven to Learn, Solve, and Contribute | Dedicated to Lifelong Learning</strong>  </p>
+            <p> <strong>[Your Description]</strong>  </p>
           
            
         </div>
